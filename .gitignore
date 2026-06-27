@@ -1,0 +1,17 @@
+bin/*
+*.root
+*.log
+*.o
+*.tar.gz
+*.bak
+archive/*
+mtv.sh
+install/*
+build/*
+tmp/*
+Config.hh
+macros/gs_checkerboard_*.mac
+macros/vis_qt_gs_checkerboard.mac
+GS_Checkerboard/**
+ratdb/GS_Checkerboard/**
+output/GS_Checkerboard/**

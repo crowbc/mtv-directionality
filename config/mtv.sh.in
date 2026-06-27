@@ -1,0 +1,5 @@
+#!/bin/bash
+
+export MTVDATA=@MTVSHARE@
+export PATH=@MTVROOT@/bin:$PATH
+export LD_LIBRARY_PATH=@MTVROOT@/lib:$LD_LIBRARY_PATH
