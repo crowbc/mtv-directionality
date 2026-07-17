@@ -10,8 +10,12 @@ The reference data set for the binning matrices used for the directional reconst
 
 ## Version History:
 
+16JUL2026: v 1.0.2 -- Hotfix 2.
+
+- Added release number for publication. Release managed through Zenodo --- [![DOI](https://zenodo.org/badge/1281816475.svg)](https://doi.org/10.5281/zenodo.21345344)
+
 11JUL2026: v 1.0.1 -- Hotfix 1.
 
-Added MIT License for publication
+- Added MIT License for publication.
 
 26JUN2026: v 1.0.0 -- Initial Commit for publication and data availability
